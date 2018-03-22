@@ -1,2 +1,2 @@
 hello world~~~
-i like python~
+I like use Python!
